@@ -2,5 +2,5 @@
 
 int main() 
 {
-  std::cout << "FuckWorld" << std::endl;
+  std::cout << "SaveWorld" << std::endl;
 }
